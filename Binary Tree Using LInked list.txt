@@ -1,0 +1,7 @@
+Binary Tree after insertion 
+1 
+Binary Tree after insertion 
+4 2 5 1 3 
+
+...Program finished with exit code 0
+Press ENTER to exit console.

@@ -1,0 +1,8 @@
+Top Element in stack is 5 
+5 4 3 2 1 
+Deleted Element in stack is 5 
+4 3 2 1 
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
