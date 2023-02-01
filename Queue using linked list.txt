@@ -1,9 +1,0 @@
-Front Element is 1 
-Rear Element is 5 
-1-->2-->3-->4-->5
-Deleted Element is 1 
-2-->3-->4-->5-->6
-
-
-...Program finished with exit code 0
-Press ENTER to exit console.

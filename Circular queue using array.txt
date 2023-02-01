@@ -1,6 +1,0 @@
-FrontElement is 0 
-rearElement is 4 
-
-
-...Program finished with exit code 0
-Press ENTER to exit console.

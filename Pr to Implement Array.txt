@@ -1,6 +1,0 @@
-Enter the number of Element in array:
-5
-Enter Element 0 : 1
-Enter Element 1 : 2
-Enter Element 2 : 3
-1 2 3

@@ -1,8 +1,0 @@
-Top element in stack 14 
-Deleted element in stack 14 
-Top element in stack 13 
-size of Elements in Stack 14 
-
-
-...Program finished with exit code 0
-Press ENTER to exit console.
